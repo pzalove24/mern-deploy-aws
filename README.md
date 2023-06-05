@@ -1,0 +1,1 @@
+# Starter files for Mern app deploy to Aws Elastic Beanstalk
